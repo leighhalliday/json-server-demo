@@ -1,0 +1,10 @@
+{
+  "name": "json-server-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leigh Halliday",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
